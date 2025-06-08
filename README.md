@@ -26,8 +26,8 @@ Train, visualize and compare classic and modern RL algorithms on discrete and co
 
 ```bash
 # 1. Clone
-git clone https://github.com/your-org/rl-qt-platform.git
-cd rl-qt-platform
+git clone https://github.com/ccandtt/Reinforcemen-Learning-Platform.git
+cd Reinforcemen-Learning-Platform
 
 # 2. Create Python 3.9 environment (recommended)
 conda create -n rl-qt python=3.9
