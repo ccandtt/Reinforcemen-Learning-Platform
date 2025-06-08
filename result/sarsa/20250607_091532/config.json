@@ -1,0 +1,15 @@
+{
+    "maze_size": [
+        5,
+        5
+    ],
+    "n_episodes": 100,
+    "learning_rate": 0.1,
+    "gamma": 0.95,
+    "initial_epsilon": 0.06057704364907282,
+    "epsilon_decay": 0.995,
+    "epsilon_min": 0.01,
+    "td_target": false,
+    "best_reward": 104.58685424949238,
+    "final_epsilon": 0.06057704364907282
+}
