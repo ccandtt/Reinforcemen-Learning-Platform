@@ -1,4 +1,3 @@
-```markdown
 # Reinforcement-Learning Platform (Qt Edition)
 
 A comprehensive, **PyTorch-based** reinforcement learning (RL) playground with a Qt graphical front-end.  
