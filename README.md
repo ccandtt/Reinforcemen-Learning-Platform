@@ -11,14 +11,14 @@ Train, visualize and compare classic and modern RL algorithms on discrete and co
 
 ## ✨ Key Features
 
-| Category      | Details                                                                                          |
-|---------------|--------------------------------------------------------------------------------------------------|
-| Algorithms    | **SARSA, DQN, PPO, A2C, DDPG** (plug-in architecture—add your own easily)                        |
-| Environments  | • Custom Maze <br>• `CartPole-v0` <br>• `Pendulum-v1` <br>• Quickly register new Gym environments |
-| Visualisation | Real-time environment animation, reward / loss curves, parameter dashboards                      |
-| Front-end     | **Qt (PyQt / PySide)**—native desktop look & feel                                                |
-| Extensibility | Modular folders: `agents/`, `algorithms/`, `trainer/`, `utils/`                                  |
-| Reproducibility | Auto-save checkpoints, TensorBoard logs, YAML configs                                          |
+| Category        | Details                                                                                           |
+|-----------------|---------------------------------------------------------------------------------------------------|
+| Algorithms      | **SARSA, DQN, PPO, A2C, DDPG** &nbsp;*(plug-in architecture—add your own easily)*                 |
+| Environments    | • Custom Maze <br>• `CartPole-v0` <br>• `Pendulum-v1` <br>• Quickly register new Gym environments |
+| Visualisation   | Real-time environment animation, reward / loss curves, parameter dashboards                       |
+| Front-end       | **Qt (PyQt / PySide)**—native desktop look & feel                                                 |
+| Extensibility   | Modular folders: `agents/`, `algorithms/`, `trainer/`, `utils/`                                   |
+| Reproducibility | Auto-save checkpoints, TensorBoard logs, YAML configs                                             |
 
 ---
 
@@ -88,6 +88,14 @@ Pull requests are welcome! Please open an issue first to discuss major changes.
 ## 📜 License
 
 This project is released under the MIT License – see [`LICENSE`](LICENSE) for details.
+
+---
+
+## 🙏 Acknowledgements
+
+Part of the DDPG implementation is adapted from the excellent open-source project  
+[naivoder/DDPG](https://github.com/naivoder/DDPG).  
+Many thanks to the original author for sharing the code and insights.
 
 ---
 
